@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
+  "version": "1.0.7",
+  "versionCode": 8,
   "forceUpdate": false,
-  "apk": "https://github.com/ArjunNishal/sukuru-updates/releases/download/v1.0.6/sukuru-v1.0.6.apk",
+  "apk": "https://github.com/ArjunNishal/sukuru-updates/releases/download/v1.0.7/sukuru-v1.0.7.apk",
   "notes": ["Payment Gateway integration", "Email bug fixes"]
 }
